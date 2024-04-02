@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-JSB&langs_count=8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongzzang&langs_count=8)
